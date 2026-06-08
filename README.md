@@ -1,6 +1,6 @@
 # ♻️ E-Recicla
 
-O **E-Recicla** é um aplicativo mobile desenvolvido para incentivar e gamificar o descarte correto de resíduos sólidos e lixo eletrônico no campus da faculdade Estácio, em Osasco.
+O **E-Recicla** é um aplicativo mobile desenvolvido para incentivar e gamificar o descarte correto de resíduos sólidos e lixo eletrônico no campus da faculdade Estácio.
 
 ## 📱 Telas do Aplicativo
 
